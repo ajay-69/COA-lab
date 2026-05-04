@@ -1,7 +1,7 @@
 # Computer Organization and Architecture (COA) Lab
 
-Student Name: Jitarth Singh  
-Roll Number: 241210049  
+Student Name: Ajay Pratap Singh Rajawat 
+Roll Number: 241210012 
 Branch: B.Tech Computer Science and Engineering  
 Institute: National Institute of Technology Delhi  
 
@@ -104,6 +104,6 @@ By working with Logisim and GDB, we developed a clear understanding of:
 
 ## Author
 
-Jitarth Singh  
+Ajay Pratap Singh Rajawat  
 B.Tech CSE, NIT Delhi  
-Roll No: 241210049
+Roll No: 241210012
